@@ -1,5 +1,8 @@
 _repo: Tarzan-and-the-Jewels-of-Opar_92
-_version: 0.1.1
+_version: 0.1.2
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/92#Tarzan-and-the-Jewels-of-Opar
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
